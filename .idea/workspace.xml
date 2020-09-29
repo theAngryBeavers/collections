@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e8a62d8a-e52f-4cad-b37d-c2b41e0bacb9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1i9Ius0F53Aqqq2Q1xCcGhP41rb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../5 семестр/ТРТПО" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunManager" selected="JUnit.HashMapTest">
+    <configuration name="HashMapTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HashMap" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="map.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="map.impl" />
+      <option name="MAIN_CLASS_NAME" value="map.impl.HashMapTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HashMapTest.clearAndIsEmptyTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HashMap" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="map.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="map.impl" />
+      <option name="MAIN_CLASS_NAME" value="map.impl.HashMapTest" />
+      <option name="METHOD_NAME" value="clearAndIsEmptyTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HashMapTest.forEachTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HashMap" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="map.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="map.impl" />
+      <option name="MAIN_CLASS_NAME" value="map.impl.HashMapTest" />
+      <option name="METHOD_NAME" value="forEachTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HashMapTest.resizeAndGetTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HashMap" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="map.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="map.impl" />
+      <option name="MAIN_CLASS_NAME" value="map.impl.HashMapTest" />
+      <option name="METHOD_NAME" value="resizeAndGetTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LinkedListTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HashMap" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="collections.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="collections.impl" />
+      <option name="MAIN_CLASS_NAME" value="collections.impl.LinkedListTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.HashMapTest" />
+        <item itemvalue="JUnit.LinkedListTest" />
+        <item itemvalue="JUnit.HashMapTest.forEachTest" />
+        <item itemvalue="JUnit.HashMapTest.resizeAndGetTest" />
+        <item itemvalue="JUnit.HashMapTest.clearAndIsEmptyTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../Coursera training/Functional-Programming-Principles-In-Scala-master/Week 2. Higher Order Functions" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../Coursera training/Scala/example" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../Coursera training/Scala/funsets" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../Coursera training/Scala/recfun" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../Coursera training/objsets" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../forcomp" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../funsets" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../patmat" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../recfun" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e8a62d8a-e52f-4cad-b37d-c2b41e0bacb9" name="Default Changelist" comment="" />
+      <created>1601313606102</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601313606102</updated>
+      <workItem from="1601313610989" duration="18945000" />
+      <workItem from="1601365033327" duration="19291000" />
+      <workItem from="1601399739963" duration="15738000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="233" y="0" key="#Project_Structure" timestamp="1601314163222">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="0" key="#Project_Structure/0.0.1280.680@0.0.1280.680" timestamp="1601314163222" />
+    <state x="446" y="48" key="#com.intellij.ide.util.MemberChooser" timestamp="1601407709979">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="446" y="48" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1601407709979" />
+    <state x="352" y="266" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1601327246734">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="352" y="266" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1280.680@0.0.1280.680" timestamp="1601327246734" />
+    <state x="291" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1601332429461">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="291" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1280.680@0.0.1280.680" timestamp="1601332429461" />
+    <state width="412" height="466" key="DebuggerActiveHint" timestamp="1601413858712">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="412" height="466" key="DebuggerActiveHint/0.0.1280.680@0.0.1280.680" timestamp="1601413858712" />
+    <state width="1237" height="245" key="GridCell.Tab.0.bottom" timestamp="1601416980505">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="245" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1601416980505" />
+    <state width="1237" height="245" key="GridCell.Tab.0.center" timestamp="1601416980505">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="245" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1601416980505" />
+    <state width="1237" height="245" key="GridCell.Tab.0.left" timestamp="1601416980505">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="245" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1601416980505" />
+    <state width="1237" height="245" key="GridCell.Tab.0.right" timestamp="1601416980505">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="245" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1601416980505" />
+    <state width="1237" height="245" key="GridCell.Tab.1.bottom" timestamp="1601416980506">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="245" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1601416980506" />
+    <state width="1237" height="245" key="GridCell.Tab.1.center" timestamp="1601416980505">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="245" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1601416980505" />
+    <state width="1237" height="245" key="GridCell.Tab.1.left" timestamp="1601416980505">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="245" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1601416980505" />
+    <state width="1237" height="245" key="GridCell.Tab.1.right" timestamp="1601416980505">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="245" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1601416980505" />
+    <state x="171" y="0" key="Maven.ArtifactSearchDialog" timestamp="1601373647746">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="171" y="0" key="Maven.ArtifactSearchDialog/0.0.1280.680@0.0.1280.680" timestamp="1601373647746" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1601411303610">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1601411303610" />
+    <state x="192" y="76" width="896" height="567" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1601413493322">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="192" y="76" width="896" height="567" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1280.680@0.0.1280.680" timestamp="1601413493322" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/map/impl/HashMap.java</url>
+          <line>292</line>
+          <properties class="map.impl.HashMap" method="removeNode">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/map/impl/HashMap.java</url>
+          <line>319</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="JUnit">
+        <watch expression="((HashMap)map).entrySet().toArray()[100]" custom="java.util.HashMap" />
+        <watch expression="bucketsForIteration[196]" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/HashMap$LinkedListTest.ic" NAME="LinkedListTest Coverage Results" MODIFIED="1601332465254" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>collections.impl.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/HashMap$HashMapTest.ic" NAME="HashMapTest Coverage Results" MODIFIED="1601404914662" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>map.impl.*</FILTER>
+    </SUITE>
+  </component>
+</project>

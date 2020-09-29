@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>com.github.theAngryBeavers</groupId>
+    <artifactId>collections</artifactId>
+    <version>1.0.0</version>
+    <packaging>jar</packaging>
+
+    <licenses>
+        <license>
+            <name>Mozilla Public License Version 2.0</name>
+            <url>https://www.mozilla.org/en-US/MPL/2.0/</url>
+            <distribution>manual</distribution>
+        </license>
+    </licenses>
+
+    <developers>
+        <developer>
+            <name>Cyril Lisitsa</name>
+            <email>cyril_lisitsa@zohomail.eu</email>
+            <url>https://github.com/pinkyfox</url>
+            <organization>The Angry Beavers, Ltd.</organization>
+            <organizationUrl>https://github.com/theAngryBeavers</organizationUrl>
+            <timezone>+3</timezone>
+            <roles>
+                <role>Author</role>
+                <role>Developer</role>
+            </roles>
+        </developer>
+    </developers>
+
+    <contributors>
+        <contributor>
+            <name>Vladislav Churyla</name>
+            <email>tagirovicv@gmail.com</email>
+            <url>https://github.com/elvyyy</url>
+            <organization>The Angry Beavers, Ltd.</organization>
+            <organizationUrl>https://github.com/theAngryBeavers</organizationUrl>
+            <timezone>+3</timezone>
+            <roles>
+                <role>Test developer</role>
+            </roles>
+        </contributor>
+    </contributors>
+
+    <distributionManagement>
+        <repository>
+            <id>github</id>
+            <name>GitHub theangrybeavers Apache Maven Packages</name>
+            <url>https://maven.pkg.github.com/theangrybeavers/mavenRepository</url>
+        </repository>
+    </distributionManagement>
+
+    <build>
+        <sourceDirectory>src/main/java</sourceDirectory>
+
+        <testSourceDirectory>src/test/java</testSourceDirectory>
+
+        <plugins>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-compiler-plugin</artifactId>
+                <version>3.8.1</version>
+                <configuration>
+                    <source>8</source>
+                    <target>8</target>
+                    <encoding>UTF-8</encoding>
+                </configuration>
+            </plugin>
+
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-site-plugin</artifactId>
+                <version>3.9.1</version>
+            </plugin>
+
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-project-info-reports-plugin</artifactId>
+                <version>3.1.1</version>
+            </plugin>
+        </plugins>
+
+        <finalName>collections</finalName>
+    </build>
+
+    <dependencies>
+        <dependency>
+            <groupId>org.junit.jupiter</groupId>
+            <artifactId>junit-jupiter-engine</artifactId>
+            <version>5.7.0</version>
+            <scope>test</scope>
+        </dependency>
+    </dependencies>
+
+</project>
